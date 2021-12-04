@@ -1,12 +1,10 @@
-## Snacks Tower
+## Snacks Tower Game
 
-You can use the [editor on GitHub](https://github.com/rafellk/snacks-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Be the greatest snacks stacker of all time!!! Every 15 snacks you stack you go to the next level where stacking becomes even more difficult. Let's test your stacking ability by reaching the highest level you can.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|||
+|:--:|:--:|
+|![1242x2688bb](https://user-images.githubusercontent.com/3220716/144714633-a31adcb6-ff7e-42c9-9e94-dd944159dcc3.png) | ![1242x2688bb (1)](https://user-images.githubusercontent.com/3220716/144714636-5c4d1cb0-cdbe-4d7c-bb42-11fe6b62676e.png)|
 
 ```markdown
 Syntax highlighted code block
